@@ -1,0 +1,31 @@
+{
+  "name": "joda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bizgrof/joda.git"
+  },
+  "keywords": [
+    "joda"
+  ],
+  "author": "Andrey Artamonov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bizgrof/joda/issues"
+  },
+  "homepage": "https://github.com/bizgrof/joda#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-changed": "^3.1.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
